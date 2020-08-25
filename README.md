@@ -9,7 +9,8 @@ jugador que elige columnas aleatoriamente (Rojo).
 
 ![Connect 4](https://media.giphy.com/media/U4X4lMfqH5zBGvBN0u/giphy.gif)
 
-
+Este fue un trabajo para la materia Algoritmos y estructuras de datos 3 de Mateo Marenco, Damián Huaier, Franco
+Dalmau y Martín Salgado.
 
 ------------------------------------------------------------
 Instrucciones de compilación
