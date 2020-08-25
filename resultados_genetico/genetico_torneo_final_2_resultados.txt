@@ -1,0 +1,7 @@
+tct_estr_crand 467 529 204 1463 
+tct_pond_crand 374 688 138 1436 
+tct_pond_cfijo 276 650 274 1202 
+tct_pond_cfijo_redmut 405 660 135 1470 
+ant_estr_crand 195 451 554 841 
+ant_pond_crand 222 226 752 670 
+ant_pond_cfijo 275 768 157 1318 

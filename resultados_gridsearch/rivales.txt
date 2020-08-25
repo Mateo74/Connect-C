@@ -1,0 +1,71 @@
+//rivales[0]: jugador super ofensivo, no le importa lo que hace el rival.
+rivales[0].lineas_c_player = 1000;
+rivales[0].lineas_c_oponente = 0;
+rivales[0].maxima_longitud_player = 100;
+rivales[0].maxima_longitud_oponente = 0;
+rivales[0].cant_lineas_player = 10;
+rivales[0].cant_lineas_oponente = 0;
+
+//rivales[1]: Da pesos con con signo sensato, pero no necesariamente peso sensato
+rivales[1].lineas_c_player = 1;
+rivales[1].lineas_c_oponente = - 1;
+rivales[1].maxima_longitud_player = 10;
+rivales[1].maxima_longitud_oponente = - 10;
+rivales[1].cant_lineas_player = 1;
+rivales[1].cant_lineas_oponente = -1;
+
+//rivales[2]: Opuesto al 1, debería ser malísimo
+rivales[2].lineas_c_player = -1;
+rivales[2].lineas_c_oponente = 1;
+rivales[2].maxima_longitud_player = -10;
+rivales[2].maxima_longitud_oponente = 10;
+rivales[2].cant_lineas_player = -1;
+rivales[2].cant_lineas_oponente = 1;
+
+//rivales[3]: jugador super defensivo, se preocupa por lo que hace el rival y no le interesa lo propio
+rivales[3].lineas_c_player = 0;
+rivales[3].lineas_c_oponente = -1000;
+rivales[3].maxima_longitud_player = 0;
+rivales[3].maxima_longitud_oponente = -100;
+rivales[3].cant_lineas_player = 0;
+rivales[3].cant_lineas_oponente = -10;
+
+//rivales[4]: en principio parece bueno, le interesa más la longitud que la cantidad de líneas
+rivales[4].lineas_c_player = 1000;
+rivales[4].lineas_c_oponente = -500;
+rivales[4].maxima_longitud_player = 40;
+rivales[4].maxima_longitud_oponente = -20;
+rivales[4].cant_lineas_player = 2;
+rivales[4].cant_lineas_oponente = -1;
+
+//rivales[5]: como el 4 pero le interesa más la cantidad que la longitud de líneas
+rivales[5].lineas_c_player = 1000;
+rivales[5].lineas_c_oponente = -500;
+rivales[5].maxima_longitud_player = 2;
+rivales[5].maxima_longitud_oponente = -1;
+rivales[5].cant_lineas_player = 40;
+rivales[5].cant_lineas_oponente = -20;
+
+//rivales[6]: un buen jugador sacado del genético. No le gusta tener muchas lineas.
+rivales[6].lineas_c_player = 1141.92;
+rivales[6].lineas_c_oponente = -980.758;
+rivales[6].maxima_longitud_player = 166.094;
+rivales[6].maxima_longitud_oponente = -271.139;
+rivales[6].cant_lineas_player = -31.9399;
+rivales[6].cant_lineas_oponente = 87.3286;
+
+//rivales[7]: un jugador agresivo como el 0, pero prefiere tener pocas lineas
+rivales[7].lineas_c_player = 1000;
+rivales[7].lineas_c_oponente = 0;
+rivales[7].maxima_longitud_player = 100;
+rivales[7].maxima_longitud_oponente = 0;
+rivales[7].cant_lineas_player = -10;
+rivales[7].cant_lineas_oponente = 0;
+
+//rivales[8]: un jugador defensivo como el 3, pero no le importa la cantidad de lineas del oponente
+rivales[8].lineas_c_player = 0;
+rivales[8].lineas_c_oponente = -1000;
+rivales[8].maxima_longitud_player = 0;
+rivales[8].maxima_longitud_oponente = -100;
+rivales[8].cant_lineas_player = 0;
+rivales[8].cant_lineas_oponente = 0;

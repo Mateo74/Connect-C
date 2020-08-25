@@ -1,0 +1,44 @@
+Puntaje del rival número 0:
+Cantidad de victorias: 21
+Cantidad de empates: 1
+Cantidad de derrotas: 26
+
+Puntaje del rival número 1:
+Cantidad de victorias: 25
+Cantidad de empates: 2
+Cantidad de derrotas: 21
+
+Puntaje del rival número 2:
+Cantidad de victorias: 0
+Cantidad de empates: 0
+Cantidad de derrotas: 48
+
+Puntaje del rival número 3:
+Cantidad de victorias: 17
+Cantidad de empates: 5
+Cantidad de derrotas: 26
+
+Puntaje del rival número 4:
+Cantidad de victorias: 34
+Cantidad de empates: 4
+Cantidad de derrotas: 10
+
+Puntaje del rival número 5:
+Cantidad de victorias: 26
+Cantidad de empates: 2
+Cantidad de derrotas: 20
+
+Puntaje del rival número 6:
+Cantidad de victorias: 32
+Cantidad de empates: 3
+Cantidad de derrotas: 13
+
+Puntaje del rival número 7:
+Cantidad de victorias: 12
+Cantidad de empates: 0
+Cantidad de derrotas: 36
+
+Puntaje del rival número 8:
+Cantidad de victorias: 29
+Cantidad de empates: 3
+Cantidad de derrotas: 16

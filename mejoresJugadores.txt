@@ -1,0 +1,62 @@
+lineas_c_player = 500
+lineas_c_oponente = -100
+maxima_longitud_player = 10
+maxima_longitud_oponente = -2
+cant_lineas_player = 2
+cant_lineas_oponente = 10
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 10
+maxima_longitud_oponente = -2
+cant_lineas_player = 2
+cant_lineas_oponente = 10
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 80
+maxima_longitud_oponente = -10
+cant_lineas_player = 2
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 80
+maxima_longitud_oponente = -10
+cant_lineas_player = 10
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 80
+maxima_longitud_oponente = -2
+cant_lineas_player = 2
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 80
+maxima_longitud_oponente = -2
+cant_lineas_player = 10
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 150
+maxima_longitud_oponente = -10
+cant_lineas_player = 2
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -500
+maxima_longitud_player = 150
+maxima_longitud_oponente = -2
+cant_lineas_player = 2
+cant_lineas_oponente = 80
+
+lineas_c_player = 1000
+lineas_c_oponente = -100
+maxima_longitud_player = 10
+maxima_longitud_oponente = -2
+cant_lineas_player = 2
+cant_lineas_oponente = 10
