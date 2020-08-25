@@ -1,3 +1,8 @@
+# Connect C (Darwin en línea)
+
+![Connect 4](https://media.giphy.com/media/U4X4lMfqH5zBGvBN0u/giphy.gif)
+
+
 A continuación se detallan los targets del Makefile:
 - all: compilar todos los binarios
 - clean: eliminar todos los binarios
@@ -39,13 +44,13 @@ Carpetas y scripts
 ------------------------------------------------------------
 
 En la carpeta "resultados_genetico" se encuentran todos los resultados obtenidos de las experimentaciones con el algoritmo genético. El
-script "plot.py" grafica estos resultados, aunque en la carpeta "graficos" ya se encuentran creados. A su vez, el archivo 
-"genetico_torneo_final.txt" contiene los jugadores obtenidos de todas las variantes del algoritmo genético, listos para ser leídos por 
+script "plot.py" grafica estos resultados, aunque en la carpeta "graficos" ya se encuentran creados. A su vez, el archivo
+"genetico_torneo_final.txt" contiene los jugadores obtenidos de todas las variantes del algoritmo genético, listos para ser leídos por
 el programa "torneo".
 
-En la carpeta "resultados_gridsearch" se encuentran los resultados obtenidos de las experimentaciones relacionadas con grid search. 
-El notebook "experimentacion-gridsearch.ipynb" es donde se genera el mapa de calor. El archivo "rivales.txt" muestra el conjunto de 
-jugadores rivales que se usaron para dar puntaje a los jugadores. El archivo "resultados-tct-rivales.txt" tiene los resultados de un 
+En la carpeta "resultados_gridsearch" se encuentran los resultados obtenidos de las experimentaciones relacionadas con grid search.
+El notebook "experimentacion-gridsearch.ipynb" es donde se genera el mapa de calor. El archivo "rivales.txt" muestra el conjunto de
+jugadores rivales que se usaron para dar puntaje a los jugadores. El archivo "resultados-tct-rivales.txt" tiene los resultados de un
 torneo todos contra todos entre los rivales.
 
 ------------------------------------------------------------
