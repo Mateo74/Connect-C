@@ -1,7 +1,19 @@
 # Connect C (Darwin en línea)
 
+Inteligencia artificial para jugar al "C en línea" es decir la generalización del 4 en línea, con cualquier
+cantidad de fichas, filas y columnas. En realidad creamos dos jugadores con dos algoritmos distintos:
+Grid Search y Algoritmo genético.
+
+En esta animación se observa una partida entre un jugador resultante del algoritmo genético (Azul) contra un
+jugador que elige columnas aleatoriamente (Rojo).
+
 ![Connect 4](https://media.giphy.com/media/U4X4lMfqH5zBGvBN0u/giphy.gif)
 
+
+
+------------------------------------------------------------
+Instrucciones de compilación
+------------------------------------------------------------
 
 A continuación se detallan los targets del Makefile:
 - all: compilar todos los binarios
